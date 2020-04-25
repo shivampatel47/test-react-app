@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/test-react-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/test-react-app/static/js/main.5de8d135.chunk.js",
-    "main.js.map": "/test-react-app/static/js/main.5de8d135.chunk.js.map",
+    "main.css": "/test-react-app/static/css/main.3609a86f.chunk.css",
+    "main.js": "/test-react-app/static/js/main.e2bf15bb.chunk.js",
+    "main.js.map": "/test-react-app/static/js/main.e2bf15bb.chunk.js.map",
     "runtime-main.js": "/test-react-app/static/js/runtime-main.af9643d9.js",
     "runtime-main.js.map": "/test-react-app/static/js/runtime-main.af9643d9.js.map",
-    "static/js/2.2f3214a7.chunk.js": "/test-react-app/static/js/2.2f3214a7.chunk.js",
-    "static/js/2.2f3214a7.chunk.js.map": "/test-react-app/static/js/2.2f3214a7.chunk.js.map",
+    "static/js/2.a9ea4cd2.chunk.js": "/test-react-app/static/js/2.a9ea4cd2.chunk.js",
+    "static/js/2.a9ea4cd2.chunk.js.map": "/test-react-app/static/js/2.a9ea4cd2.chunk.js.map",
     "index.html": "/test-react-app/index.html",
-    "precache-manifest.c156f8b4c0a15e8a71cb203d950bebf3.js": "/test-react-app/precache-manifest.c156f8b4c0a15e8a71cb203d950bebf3.js",
+    "precache-manifest.31aff8ecf079ef08d22df6fbef6139b5.js": "/test-react-app/precache-manifest.31aff8ecf079ef08d22df6fbef6139b5.js",
     "service-worker.js": "/test-react-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/test-react-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2f3214a7.chunk.js.LICENSE.txt": "/test-react-app/static/js/2.2f3214a7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/test-react-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.3609a86f.chunk.css.map": "/test-react-app/static/css/main.3609a86f.chunk.css.map",
+    "static/js/2.a9ea4cd2.chunk.js.LICENSE.txt": "/test-react-app/static/js/2.a9ea4cd2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/test-react-app/static/media/market.a9a75cdd.jpg",
+    "static/media/img_square_1.jpg": "/test-react-app/static/media/img_square_1.dfad2e00.jpg",
+    "static/media/img_square_2.jpg": "/test-react-app/static/media/img_square_2.45ed6f03.jpg",
+    "static/media/img_square_3.jpg": "/test-react-app/static/media/img_square_3.278cde59.jpg",
+    "static/media/img_square_4.jpg": "/test-react-app/static/media/img_square_4.4b84131d.jpg",
+    "static/media/img_square_5.jpg": "/test-react-app/static/media/img_square_5.018cd4dd.jpg",
+    "static/media/landing1.png": "/test-react-app/static/media/landing1.e0b7cf38.png",
+    "static/media/landing2.png": "/test-react-app/static/media/landing2.0721c804.png",
+    "static/media/landing3.png": "/test-react-app/static/media/landing3.ac51732a.png",
+    "static/media/landing4.png": "/test-react-app/static/media/landing4.1d7b2170.png",
+    "static/media/seats.jpg": "/test-react-app/static/media/seats.b8c25d77.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.af9643d9.js",
-    "static/js/2.2f3214a7.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5de8d135.chunk.js"
+    "static/js/2.a9ea4cd2.chunk.js",
+    "static/css/main.3609a86f.chunk.css",
+    "static/js/main.e2bf15bb.chunk.js"
   ]
 }
